@@ -6,12 +6,12 @@ main:
 - title: "CV"
     url: /cv/
 
-  - title: "Teaching"
+- title: "Teaching"
     url: /teaching/    
     
-  - title: "About Me"
+- title: "About Me"
     url: /info/
         
-  - title: "Resources
+- title: "Resources
     url: /resources/
    
