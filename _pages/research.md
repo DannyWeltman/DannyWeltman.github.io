@@ -1,8 +1,6 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
 ---
 
 I work on [social and political philosophy](#socpol), mainly on topics like secession, territory, revolution, sovereignty, self-determination, borders, colonialism, immigration, authority, and legitimacy. My main research centers around what I call "cosmopolitan instrumentalism" about self-determination, which is the view that questions about self-determination should be answered by asking what would be best from the point of view of cosmopolitan justice.
